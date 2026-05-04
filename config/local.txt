@@ -4,3 +4,6 @@
 # The local source list, one line per source, format: channel name, interface address
 # Support setting whitelist: add $! after the interface
 # If there are multiple local source files, you can create a local directory under the config directory for storage, supporting txt/m3u file formats
+http://192.168.2.187:50085/playlist/m3u/183.188.108.192:8888
+http://192.168.2.187:50085/playlist/m3u/119.136.113.90:8888
+http://192.168.2.187:50085/playlist/m3u/113.233.42.243:8866
