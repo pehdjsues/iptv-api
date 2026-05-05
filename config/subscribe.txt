@@ -21,6 +21,7 @@ https://live.zbds.top/tv/iptv4.txt
 https://m3u.ibert.me/txt/o_cn.txt
 https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
 https://raw.githubusercontent.com/Guovin/TV/gd/output/result.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u
 
 # https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main.m3u
 
